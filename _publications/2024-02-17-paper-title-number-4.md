@@ -2,9 +2,7 @@
 title: "Improving Stratocumulus Cloud Amounts in a 200-m Resolution Multi-Scale Modeling Framework Through Tuning of Its Interior Physics"
 author: "Peng, L., Pritchard, M., Hannah, W. M., Blossey, P. N., Worley, P. H., & Bretherton, C. S."
 journal: 'Journal of Advances in Modeling Earth Systems'
-permalink: "/publication/2015-10-01-paper-title-number-3"
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021MS002841'
 citation: 'Peng, L., Blossey, P. N., Hannah, W. M., Bretherton, C. S., Terai, C. R., Jenney, A. M., & Pritchard, M. (2024). Improving stratocumulus cloud amounts in a 200‐m resolution multi‐scale modeling framework through tuning of its interior physics. Journal of Advances in Modeling Earth Systems, 16, e2023MS003632. https://doi.org/10.1029/2023MS00363210.1029/2021MS002841'
 ---
