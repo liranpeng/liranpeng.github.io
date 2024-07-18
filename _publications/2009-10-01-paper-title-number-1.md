@@ -1,9 +1,9 @@
 ---
 title: "Ice crystal concentrations in wave clouds: dependencies on temperature, D > 0.5 μm aerosol particle concentration, and duration of cloud processing"
-author: Peng, Liran and Snider, JR and Wang, Zhien
-journal: Atmospheric Chemistry and Physics
+author: "Peng, Liran and Snider, JR and Wang, Zhien"
+journal: "Atmospheric Chemistry and Physics"
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2015
+date: '2015'
 venue: 'Journal 1'
 paperurl: 'https://acp.copernicus.org/articles/15/6113/2015/acp-15-6113-2015.pdf'
 citation: 'Peng L, Snider J R, Wang Z. Ice crystal concentrations in wave clouds: Dependencies on temperature, D> 0.5 μm aerosol particle concentration, and duration of cloud processing[J]. Atmospheric Chemistry and Physics, 2015, 15(11): 6113-6125.'
