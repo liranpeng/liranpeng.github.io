@@ -5,7 +5,6 @@ journal: 'Journal of Advances in Modeling Earth Systems'
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2024-02-20
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021MS002841'
 citation: 'Peng, L., Blossey, P. N., Hannah, W. M., Bretherton, C. S., Terai, C. R., Jenney, A. M., & Pritchard, M. (2024). Improving stratocumulus cloud amounts in a 200‐m resolution multi‐scale modeling framework through tuning of its interior physics. Journal of Advances in Modeling Earth Systems, 16, e2023MS003632. https://doi.org/10.1029/2023MS00363210.1029/2021MS002841'

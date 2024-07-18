@@ -5,7 +5,6 @@ journal: 'Journal of Advances in Modeling Earth Systems'
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2022-03-26
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021MS002841'
 citation: 'Peng, L., Pritchard, M., Hannah, W. M., Blossey, P. N., Worley, P. H., & Bretherton, C. S. (2022). Load- balancing intense physics calculations to embed regionalized high-resolution cloud resolving models in the E3SM and CESM climate models. Journal of Advances in Modeling Earth Systems, 14, e2021MS002841. https://doi. org/10.1029/2021MS002841'
