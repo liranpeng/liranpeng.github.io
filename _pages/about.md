@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Liran's website! "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome to my website! 
+
 
 I am a project scientist working with Dr. [Mike Pritchard](https://www.linkedin.com/in/mikepritchard?original_referer=https%3A%2F%2Fwww.google.com%2F) at the [Department of Earth System Science, UCI](https://www.ess.uci.edu). Before the postdoc, I got my PhD from University of Alaska, Fairbanks in 2019. 
 
