@@ -4,7 +4,6 @@ author: "Peng, Liran and Snider, JR and Wang, Zhien"
 journal: "Geophysical Research Letters"
 permalink: "/publication/2010-10-01-paper-title-number-2"
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: '2021'
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021GL092714'
