@@ -24,7 +24,7 @@ teaser                   :  "Liran_arctic.JPG"# filename of teaser fallback teas
 author:
   # Biographic information
   avatar           : "Liran_arctic.JPG"
-  name             : "Your Sidebar Name"
+  name             : "Liran Peng"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
