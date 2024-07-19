@@ -21,7 +21,7 @@ repository               : "liranpeng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_5601_resized.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -75,7 +75,7 @@ author:
 
 
 # Site Settings
-teaser                   :  "https://github.com/liranpeng/liranpeng.github.io/images/IMG_5601_resized.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "IMG_5601_resized.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
