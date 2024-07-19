@@ -15,7 +15,7 @@ description              : &description "Assistant Project Scientist - UC Irvine
 url                      : https://liranpeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liranpeng.github.io"
-teaser                   :  "IMG_5601_resized.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "Liran_arctic.JPG"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
