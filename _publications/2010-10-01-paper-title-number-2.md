@@ -2,8 +2,6 @@
 title: "Role of Intense Arctic Storm in Accelerating Summer Sea Ice Melt: An In Situ Observational Study"
 author: "Peng, Liran and Snider, JR and Wang, Zhien"
 journal: "Geophysical Research Letters"
-permalink: "/publication/2010-10-01-paper-title-number-2"
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021GL092714'
 citation: 'Peng, L., Zhang, X., Kim, J.-H., Cho, K.-H., Kim, B.-M., Wang, Z., & Tang, H. (2021). Role of intense Arctic storm in accelerating summer sea ice melt: An in situ observational study. Geophysical Research Letters, 48, e2021GL092714. https://doi.org/10.1029/2021GL092714'
