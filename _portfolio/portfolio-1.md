@@ -1,6 +1,6 @@
 ---
 title: "Arctic Observations"
-excerpt: "A photo showing me preparing to launch the balloon. This balloon is about 1.5 meters (approximately 5 feet) in diameter and gradually expands in size as it rises due to the decrease in air pressure. When the balloon reaches a diameter of 6 to 8 meters (20 to 25 feet), it bursts. <br/><img src='/images/Arctic_1.JPG'>"
+excerpt: "UWYO King Air <br/><img src='/images/KingAir.JPG'>"
 collection: portfolio
 ---
 
