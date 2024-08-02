@@ -26,7 +26,7 @@ author:
   avatar           : "Liran_arctic.JPG"
   name             : "Liran Peng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Project Scientist at University of California, Irvine"
   location         : "Irvine, CA"
   employer         : "University of California, Irvine"
   uri              : # URL
@@ -109,7 +109,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  #hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
