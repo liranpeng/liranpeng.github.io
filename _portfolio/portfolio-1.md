@@ -1,5 +1,5 @@
 ---
-title: "Arctic Observations"
+title: "In-situ Observations"
 excerpt: "Liran participated in UWYO King Air Maneuvers conducted in clear air. <br/><img src='/images/KingAir.JPG'>"
 collection: portfolio
 ---
