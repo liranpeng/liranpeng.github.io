@@ -12,8 +12,8 @@ main:
   - title: "Observation Adventures"
     url: /portfolio/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Data"
+    url: /data_test/
     
   - title: "CV"
     url: https://liranpeng.github.io/files/LiranPeng_CV_03062024.pdf
