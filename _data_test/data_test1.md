@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: data_test
 type: "Undergraduate course"
-permalink: /data_test/data_test
+permalink: /data_test/data_test1
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
