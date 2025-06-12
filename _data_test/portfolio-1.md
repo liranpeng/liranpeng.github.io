@@ -1,7 +1,20 @@
 ---
-title: "In-situ Observations"
-excerpt: "Liran participated in UWYO King Air Maneuvers conducted in clear air. <br/><img src='/images/KingAir.JPG'>"
+title: "Teaching experience 1"
 collection: data_test
+type: "Undergraduate course"
+permalink: /data_test/data_test
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
