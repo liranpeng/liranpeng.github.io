@@ -1,5 +1,9 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Talk at UAF	Talk	uaf-talk	University of Alaska Fairbanks	2022-05-10	Fairbanks, Alaska	http://uaf.edu	A seminar on Arctic climate.
+Talk at UAA	Talk	uaa-talk	University of Alaska Anchorage	2021-09-22	Anchorage, Alaska	http://uaa.edu	Regional climate variability talk.
+Talk at UW	Talk	uw-talk	University of Wyoming	2020-10-15	Laramie, Wyoming	http://uwyo.edu	Mountain meteorology presentation.
+Talk at UCI	Talk	uci-talk	University of California, Irvine	2023-02-11	Irvine, California	http://uci.edu	Coastal clouds and ACI processes.
+Talk in Beijing	Talk	beijing-talk	Institute of Atmospheric Physics, CAS	2021-11-03	Beijing, China	http://iap.cas.cn	Urban aerosol influences.
+Talk in Nanjing	Talk	nju-talk	Nanjing University	2022-08-30	Nanjing, China	http://nju.edu.cn	Cloud feedbacks in ESMs.
+Talk at NTU	Talk	ntu-talk	National Taiwan University	2023-09-15	Taipei, Taiwan	http://ntu.edu.tw	Presented recent findings on stratocumulus cloud feedbacks.
+Talk at AWI	Talk	awi-talk	Alfred Wegener Institute	2022-06-20	Bremerhaven, Germany	http://awi.de	Discussion on polar cloud-aerosol interactions and modeling challenges.
