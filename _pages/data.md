@@ -1,7 +1,7 @@
 ---
 title: "Data"
 permalink: /data_test/
-layout: page
+layout: archive
 ---
 
 {% if site.author.googlescholar %}
