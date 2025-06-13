@@ -2,6 +2,7 @@
 title: "Data"
 permalink: /data_test/
 layout: archive
+author_profile: true
 ---
 
 {% if site.author.googlescholar %}
